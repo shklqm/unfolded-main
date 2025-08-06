@@ -1,6 +1,6 @@
 export default function Home() {
 	return (
-		<div className="min-h-screen flex items-center justify-center bg-gradient-to-br from-gray-900 via-black to-gray-900 relative overflow-hidden">
+		<div className="min-h-screen flex items-center justify-center bg-black relative overflow-hidden">
 			{/* Animated background elements */}
 			<div className="absolute inset-0">
 				<div className="absolute top-1/4 left-1/4 w-2 h-2 bg-blue-400 rounded-full animate-pulse opacity-60"></div>
